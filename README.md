@@ -3,3 +3,6 @@ In this course, we will learn how to build a complete full-stack web application
 
 ## React Hooks + Spring Boot CRUD Full Stack Application Course on YouTube
 https://youtube.com/playlist?list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu
+
+# I am practicing with git 
+I am being silly 
